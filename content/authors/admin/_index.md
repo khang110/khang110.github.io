@@ -1,29 +1,25 @@
 ---
 # Display name
-title: Prakhar Rathi
+title: Nguyen Anh Khang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: American Express
-  url: https://www.americanexpress.com/en-in/
+- name: Chang Gung University
+  url: https://www.cgu.edu.tw/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a data scientist with a passion for creating innovative solutions to complex problems.
+bio: I am a researcher with a passion for creating innovative solutions to complex problems.
 
 # Interests to show in About widget
 interests:
-- Data Science
-- Computational Social Science
-- Natural Language Processing 
-- Data Engineering
-- Statistical Modelling
-- Strategic Planning
+- Computer science
+- Action Recognition
 
 # Education to show in About widget
 education:
@@ -74,7 +70,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "prakharrathi25@gmail.com"
+email: "anhkhang110@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -82,7 +78,7 @@ highlight_name: false
 
 Welcome to my space! :wave:
 
-I am a data scientist with a passion for creating innovative solutions to complex problems. I completed my B.Tech in Computer Science and Engineering _(with a minor in Economics)_ from [Shiv Nadar University](https://snu.edu.in/) in 2022.
+I am a researcher with a passion for creating innovative solutions to complex problems. I completed my B.Tech in Computer Science and Engineering _(with a minor in Economics)_ from [Shiv Nadar University](https://snu.edu.in/) in 2022.
 
 Currently, I am working as a Manager at [American Express](https://www.americanexpress.com/), leading a cross-functional team of analysts. I leverage data to develop innovative strategies for global operations. My experience spans designing predictive models, optimizing processes, and implementing data-driven solutions that enhance efficiency.
 
