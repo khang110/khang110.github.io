@@ -24,15 +24,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Organizational Leadership
-    institution: Northwestern University
-    year: 2022-Present
-  - course: B.Tech in Computer Science and Engineering
-    institution: Shiv Nadar University
+  - course: Master degree in Computer Science and Engineering
+    institution: Chang Gung University
+    year: 2024-Present
+  - course: Bachelor in Information Technologoy
+    institution: University of Information Technologoy
     year: 2018-2022
-  - course: Summer Institute in Computational Social Science 
-    institution: International Institute of Information Technology, Hyderabad 
-    year: 2022
 
 
 # Social/Academic Networking
@@ -42,25 +39,25 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:prakharrathi25@gmail.com'
+  link: 'mailto:anhkhang110@gmail.com'
 - icon: github
   icon_pack: fab
-  link: https://github.com/prakharrathi25
+  link: https://github.com/khang110
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/prakhar-rathi/
-- icon: kaggle
-  icon_pack: fab
-  link: https://www.kaggle.com/prakharrathi25/
+  link: https://www.linkedin.com/in/khang110/
+#- icon: kaggle
+#  icon_pack: fab
+#  link: https://www.kaggle.com/prakharrathi25/
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/prakharrathi14
-- icon: medium 
-  icon_pack: fab
-  link: https://medium.com/@prakharrathi
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=2F6ZdIIAAAAJ&hl=en
+#- icon: medium 
+#  icon_pack: fab
+#  link: https://medium.com/@prakharrathi
+#- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=2F6ZdIIAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -78,7 +75,7 @@ highlight_name: false
 
 Welcome to my space! :wave:
 
-I am a researcher with a passion for creating innovative solutions to complex problems. I completed my B.Tech in Computer Science and Engineering _(with a minor in Economics)_ from [Shiv Nadar University](https://snu.edu.in/) in 2022.
+I am a researcher with a passion for creating innovative solutions to complex problems. I completed my bachelor in Information Technology from [University of Information Technology](https://en.uit.edu.vn/) in 2022.
 
 Currently, I am working as a Manager at [American Express](https://www.americanexpress.com/), leading a cross-functional team of analysts. I leverage data to develop innovative strategies for global operations. My experience spans designing predictive models, optimizing processes, and implementing data-driven solutions that enhance efficiency.
 

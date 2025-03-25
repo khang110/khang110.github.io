@@ -22,9 +22,6 @@ main:
   - name: Achievements
     url: '#achievements'
     weight: 30
-  - name: Community
-    url: '#community'
-    weight: 60
   - name: Contact
     url: '#contact'
     weight: 65
